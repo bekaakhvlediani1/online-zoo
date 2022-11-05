@@ -482,7 +482,8 @@ button {
     margin: 58px 30px;
 }
 
-.feed-content p:last-child span {
+.feed-content p:last-child a {
+    color: #333B41;
     border-bottom: 1px solid #f9804b;
 }
 
